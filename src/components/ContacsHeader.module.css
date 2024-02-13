@@ -1,0 +1,14 @@
+.contact-info {
+    width: 100%;
+    height: 70px;
+    background-color: rgba(214, 131, 6, 0.2);
+    color: #000; 
+  }
+
+  .container {
+    width: 1222px;
+    display: flex;
+    flex-wrap:nowrap;
+    justify-content: space-between;
+    align-items: center;
+  }
